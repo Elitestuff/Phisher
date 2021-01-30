@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="480" height="480" src="https://media.giphy.com/media/3o7bueY41ArnIrJ67K/giphy.gif">
+  <img src="https://github.com/yezz123/Phisher/blob/master/.github/Banner.gif">
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
 
@@ -26,12 +26,25 @@
  Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers.....
 </p>
 
+### Requirements
+```
+PHP
+Wget
+Unzip
+Curl
+```
+
 ## Usage:
 ```
 git clone https://github.com/yezz123/Phisher
 cd Phisher
 bash Phisher.sh
 ```
+- If the link don't show run the **NGROK Stat** :
+```
+http://127.0.0.1:4040/status
+```
+- Then Copy the HTTPS link and send it <3
 
 ### Donate!
 
@@ -46,7 +59,7 @@ bash Phisher.sh
   <a href="https://www.youtube.com/channel/UC5ba_E8pgMV0ETCRn7PQzUg?view_as=subscriber">
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
-  <a href="https://instagram.com/froggy__19">
+  <!---<a href="https://instagram.com/froggy__19">
     <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
-    </a>
+    </a>-->
 </p>
